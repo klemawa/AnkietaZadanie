@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ankieta osobowa</string>
+    <string name="button1">Mężczyzna</string>
+    <string name="button2">Kobieta</string>
+    <string name="text1">Imie</string>
+    <string name="text2">Nazwisko</string>
+    <string name="text3">Data urodzenia:</string>
+    <string name="text4">Zainteresownia:</string>
+    <string name="checkBox1">Film</string>
+    <string name="checkBox2">Muzyka</string>
+    <string name="checkBox3">Literatura</string>
+    <string name="checkBox4">Sport</string>
+    <string name="checkBox5">Zbieranie znaczków</string>
+    <string name="checkBox6">Taniec</string>
+    <string name="checkBox7">Pielęgnacja kwiatów</string>
+    <string name="button8">ZAPISZ!</string>
+    <string name="button3">+</string>
+    <string name="buton4">-</string>
+    <string name="text5">Numer telefonu</string>
+    <string name="editTextLista">Szukaj</string>
+</resources>
